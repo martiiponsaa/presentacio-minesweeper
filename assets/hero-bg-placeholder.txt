@@ -1,0 +1,5 @@
+<!-- This is a placeholder file. For your presentation:
+1. Replace this file with an actual background image
+2. Make sure the image is named "hero-bg.jpg" or update the reference in the CSS file
+3. Choose a high-resolution image that represents your minesweeper project
+-->
