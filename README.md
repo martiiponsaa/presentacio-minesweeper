@@ -13,7 +13,7 @@ This is a presentation website for our Minesweeper project developed using the S
 The presentation is organized according to our Scrum process:
 
 - Video Demo
-- Team Introduction (Ray)
+- Team Introduction (Rui)
 - Organization (Xavi)
   - Tools: Trello, Firebase, Cardboardit, Figma
   - Task assignment process
@@ -24,7 +24,7 @@ The presentation is organized according to our Scrum process:
   - User Story (Andreu)
 - Sprint 3:
   - MVP Design (Martí)
-  - Figma Designs (Ray)
+  - Figma Designs (Rui)
 - Sprint 4:
   - MVP Development (Martí)
   - Presentation Organization (Rita)
