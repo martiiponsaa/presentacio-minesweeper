@@ -214,19 +214,15 @@ nav {
 
 /* Organization Section */
 .org-tools {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: var(--spacing-md);
-    margin: var(--spacing-md) 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
 }
 
 .tool-card {
-    background-color: white;
-    padding: var(--spacing-md);
-    border-radius: var(--border-radius);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    transition: transform 0.3s ease;
+    flex: 0 0 20%;
+    box-sizing: border-box;
 }
 
 .tool-card:hover {
