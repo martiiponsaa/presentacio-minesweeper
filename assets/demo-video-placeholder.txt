@@ -1,5 +1,0 @@
-<!-- This is a placeholder file. For your presentation:
-1. Replace this file with your actual demo video
-2. Make sure the video is named "demo-video.mp4" or update the reference in the HTML file
-3. The video should be in MP4 format for the best browser compatibility
--->
